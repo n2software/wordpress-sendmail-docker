@@ -1,4 +1,4 @@
-FROM wordpress:apache
+FROM wordpress:5.9.3-php8.0-apache
 
 RUN \
   #
